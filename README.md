@@ -1,1 +1,1 @@
-# metadataExport
+# Export of bibliographic metadata
