@@ -40,7 +40,7 @@ Database access, server access
 
 		plugin_settings
 
-- writing access to OMP tables: 0
+- writing access to OJS tables: 0
 
 - new tables: 0
 - recurring server access: yes
