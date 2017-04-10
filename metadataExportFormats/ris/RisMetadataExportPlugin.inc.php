@@ -57,7 +57,7 @@ class RisMetadataExportPlugin extends MetadataExportPlugin {
 	 * This function uses the ProCiteCitationPlugin (= RIS).
 	 */
 	function getFileContent($journal, $articles) {
-		import('plugins.citationFormats.procite.ProCiteCitationPlugin');
+		import('plugins.citationFormats.proCite.ProCiteCitationPlugin');
 		$proCiteCitationPlugin = new ProCiteCitationPlugin();
 		$proCiteCitationPlugin->register('citationFormats', 'plugins/citationFormats/proCite');
 		
